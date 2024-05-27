@@ -1,6 +1,6 @@
 <?php
 // Include the FPDF library
-require('fpdf/fpdf.php');
+require('fpdf.php');
 
 // Function to log download events
 function logDownload($userName) {
